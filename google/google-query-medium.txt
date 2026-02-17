@@ -10896,3 +10896,4 @@ inurl:"/wp-content/plugins/i-order-terms/"
 inurl:"wp-content/plugins/formidable"
 inurl:"awstats.pl"
 intitle:"pritunl"
+intitle:"HP LaserJet" inurl:info_configuration
